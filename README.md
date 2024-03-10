@@ -2,7 +2,7 @@
 
 In this repository, we provide the data used in the development, calibration, and validation of the proposed model in the paper titled: "Learning to hunt: A data-driven stochastic feedback control model of predator-prey interactions" by Deze Liu, Mohammad Tuqan, and Daniel Burbano. 
 
-The data is compiled in the excel sheet titled "Data.xlsx." Below is a description of the data provided in this repository.
+The data is compiled in the excel sheet titled "Data.xlsx." Below is a description of all the files provided in this repository.
 
 - The first sheet, "TimeSeries," consists of the time series used in the papers. Following is the description of the data in each column:
 - - ID: Index of each time-step in the data
