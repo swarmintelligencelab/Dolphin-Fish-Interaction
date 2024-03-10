@@ -5,7 +5,7 @@ In this repository, we provide the data used in the development, calibration, an
 The data is compiled in the excel sheet titled "Data.xlsx." Below is a description of all the files provided in this repository.
 
 - The first sheet, "TimeSeries," consists of the time series used in the papers. Following is the description of the data in each column:
-- - ID: Index of each time-step in the data
+  - ID: Index of each time-step in the data
   - theta_f: The heading angle of the fish in radians
   - theta_d: The heading angle for the dolphin in radians
   - omega_f: The angular-speed of the fish in rad/s
